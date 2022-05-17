@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prakshop/static/css/main.189f47d6.css",
+    "main.js": "/prakshop/static/js/main.e984659c.js",
+    "index.html": "/prakshop/index.html",
+    "main.189f47d6.css.map": "/prakshop/static/css/main.189f47d6.css.map",
+    "main.e984659c.js.map": "/prakshop/static/js/main.e984659c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.189f47d6.css",
+    "static/js/main.e984659c.js"
+  ]
+}
